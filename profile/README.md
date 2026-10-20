@@ -32,7 +32,7 @@
 | :--- | :--- | :---: | :--- |
 | **[qgis-axonometric-transformer](https://github.com/iscvlab/qgis-axonometric-transformer)** | `02 // Spatial Data & GIS` | **LIVE** *(QGIS Portal [#6219](https://plugins.qgis.org/plugins/axonometric_transformer/))* | Official QGIS plugin for 1-click 3D isometric, dimetric, and oblique axonometric map diagrams with multi-format transparent clipboard export (`PDF /SMask`, `SVG`, `PNG`) to Adobe Illustrator & Figma. |
 | **[mcp-bridges](https://github.com/iscvlab/mcp-bridges)** | `04 // Computational Design` | **LIVE** | Production Model Context Protocol (MCP) automation bridges connecting AI coding agents to **QGIS, Rhinoceros 3D, Grasshopper, Adobe Illustrator, and Figma**. |
-| **[boostx](https://github.com/iscvlab/boostx)** | `01 // Research & Workflows` | **LIVE** *(v3.0.0)* | Composable 12-skill ecosystem and deterministic Python verification harness (`/boostx`, `/briefx`, `/contextx`, `/create-skillx`, `/deep-researchx`, `/kickoffx`, `/obsidianx`, `/planx`, `/publishx-audit`, `/publishx-qgis`, `/researchx`, `/syncx`). |
+| **[boostx](https://github.com/iscvlab/boostx)** | `01 // Research & Workflows` | **LIVE** *(v3.0.0)* | Composable 13-skill ecosystem and deterministic Python verification harness (`/boostx`, `/briefx`, `/contextx`, `/create-skillx`, `/deep-researchx`, `/kickoffx`, `/layax`, `/obsidianx`, `/planx`, `/publishx-audit`, `/publishx-qgis`, `/researchx`, `/syncx`). |
 
 ---
 
