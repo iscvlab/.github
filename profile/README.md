@@ -9,9 +9,10 @@
 **ISCV | Isocurve Research Lab** (`@iscvlab`) is a multidisciplinary spatial data, GIS cartography, research synthesis, and computational design laboratory founded by **[Napat (Tan) Phasundhiae (`@napattan`)](https://github.com/napattan)** in Bangkok, Thailand. We engineer deterministic software tools, spatial analytics pipelines, and parametric workflows for the built environment.
 
 [![Founder](https://img.shields.io/badge/Founder-Napat%20Tan%20(%40napattan)-121417?style=flat-square&logo=github&logoColor=white)](https://github.com/napattan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-napatphas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/napatphas/)
+[![LinkedIn Company](https://img.shields.io/badge/LinkedIn-ISCV%20Lab%20(%40iscvlab)-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/iscvlab)
+[![Instagram](https://img.shields.io/badge/Instagram-%40iscvlab-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/iscvlab)
+[![Facebook](https://img.shields.io/badge/Facebook-%40iscvlab-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/iscvlab)
 [![Email](https://img.shields.io/badge/Contact-tanfasantia%40gmail.com-D97706?style=flat-square&logo=gmail&logoColor=white)](mailto:tanfasantia@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-2D3138?style=flat-square)](https://github.com/iscvlab)
 
 ---
 
@@ -46,8 +47,8 @@
 
 ---
 
-## Leadership & Contact
+## Leadership & Official Channels
 
-- **Founder & Lead Technologist**: [Napat (Tan) Phasundhiae (`@napattan`)](https://github.com/napattan)
-- **LinkedIn**: [linkedin.com/in/napatphas](https://www.linkedin.com/in/napatphas/)
+- **Founder & Lead Technologist**: [Napat (Tan) Phasundhiae (`@napattan`)](https://github.com/napattan) • [Personal LinkedIn (`in/napatphas`)](https://www.linkedin.com/in/napatphas/)
+- **Official Channels (`@iscvlab`)**: [LinkedIn (`company/iscvlab`)](https://www.linkedin.com/company/iscvlab) • [Instagram (`@iscvlab`)](https://www.instagram.com/iscvlab) • [Facebook (`@iscvlab`)](https://www.facebook.com/iscvlab)
 - **Inquiries & Collaborations**: [tanfasantia@gmail.com](mailto:tanfasantia@gmail.com)
