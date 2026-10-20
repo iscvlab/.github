@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/iscv_lab_banner_dark.png" alt="ISCV | Isocurve Research Lab — Research, Data Analysis, GIS & Computational Design" width="100%" />
+  <img src="https://raw.githubusercontent.com/iscvlab/.github/main/assets/iscv_lab_banner_dark.png" alt="ISCV | Isocurve Research Lab — Research, Data Analysis, GIS & Computational Design" width="100%" />
 </p>
 
 # ISCV | Isocurve Research Lab
