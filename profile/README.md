@@ -33,7 +33,8 @@
 | :--- | :--- | :---: | :--- |
 | **[qgis-axonometric-transformer](https://github.com/iscvlab/qgis-axonometric-transformer)** | `02 // Spatial Data & GIS` | **LIVE** *(QGIS Portal [#6219](https://plugins.qgis.org/plugins/axonometric_transformer/))* | Official QGIS plugin for 1-click 3D isometric, dimetric, and oblique axonometric map diagrams with multi-format transparent clipboard export (`PDF /SMask`, `SVG`, `PNG`) to Adobe Illustrator & Figma. |
 | **[mcp-bridges](https://github.com/iscvlab/mcp-bridges)** | `04 // Computational Design` | **LIVE** | Production Model Context Protocol (MCP) automation bridges connecting AI coding agents to **QGIS, Rhinoceros 3D, Grasshopper, Adobe Illustrator, and Figma**. |
-| **[boostx](https://github.com/iscvlab/boostx)** | `01 // Research & Workflows` | **LIVE** *(v3.2.0)* | Composable 13-skill `/x*` ecosystem and deterministic Python verification harness (`/xboost`, `/xbrief`, `/xcontext`, `/xcreate-skill`, `/xdeep-research`, `/xkickoff`, `/xlaya`, `/xobsidian`, `/xplan`, `/xpublish-audit`, `/xpublish-qgis`, `/xsync`, `/xultra`). |
+| **[boostx](https://github.com/iscvlab/boostx)** | `01 // Research & Workflows` | **LIVE** *(v3.2.0)* | Composable 14-skill `/x*` ecosystem and 8 deterministic Python CLI engines (`/xboost`, `/xbrief`, `/xcontext`, `/xcreate-skill`, `/xdeep-research`, `/xkickoff`, `/xlaya`, `/xobsidian`, `/xocr`, `/xplan`, `/xpublish-audit`, `/xpublish-qgis`, `/xsync`, `/xultra`). |
+| **[xocr](https://github.com/iscvlab/xocr)** | `01 // Research & Document AI` | **LIVE** *(v2.0.0)* | High-speed C++ PyMuPDF vector/table extractor, Two-Stage LaTeX `booktabs` CSV surgery (`100%` table recall, `0` false positives in `~97 ms/page`), Thai PUA/Sara-Am glyph normalizer, and 4-Tier `baidu/Unlimited-OCR-2` & `EasyOCR` hybrid engine. |
 
 ---
 
