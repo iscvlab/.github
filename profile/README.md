@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iscvlab/.github/main/assets/iscv_lab_banner_dark.png" alt="ISCV | Isocurve Research Lab — Research, Data Analysis, GIS & Computational Design" width="100%" />
+  <img src="https://raw.githubusercontent.com/iscvlab/.github/main/assets/iscv_lab_banner_dark.png" alt="ISCV | Isocurve Research Lab - Research, Data Analysis, GIS & Computational Design" width="100%" />
 </p>
 
 # ISCV | Isocurve Research Lab
@@ -29,12 +29,13 @@
 
 ## Public Repositories & Open-Source Tooling
 
-| Repository | Category | Status | Description |
-| :--- | :--- | :---: | :--- |
-| **[qgis-axonometric-transformer](https://github.com/iscvlab/qgis-axonometric-transformer)** | `02 // Spatial Data & GIS` | **LIVE** *(QGIS Portal [#6219](https://plugins.qgis.org/plugins/axonometric_transformer/))* | Official QGIS plugin for 1-click 3D isometric, dimetric, and oblique axonometric map diagrams with multi-format transparent clipboard export (`PDF /SMask`, `SVG`, `PNG`) to Adobe Illustrator & Figma. |
-| **[mcp-bridges](https://github.com/iscvlab/mcp-bridges)** | `04 // Computational Design` | **LIVE** | Production Model Context Protocol (MCP) automation bridges connecting AI coding agents to **QGIS, Rhinoceros 3D, Grasshopper, Adobe Illustrator, and Figma**. |
-| **[boostx](https://github.com/iscvlab/boostx)** | `01 // Research & Workflows` | **LIVE** *(v3.2.0)* | Composable 14-skill `/x*` ecosystem and 8 deterministic Python CLI engines (`/xboost`, `/xbrief`, `/xcontext`, `/xcreate-skill`, `/xdeep-research`, `/xkickoff`, `/xlaya`, `/xobsidian`, `/xocr`, `/xplan`, `/xpublish-audit`, `/xpublish-qgis`, `/xsync`, `/xultra`). |
-| **[xocr](https://github.com/iscvlab/xocr)** | `01 // Research & Document AI` | **LIVE** *(v2.1.0)* | High-speed C++ PyMuPDF vector/table extractor, Two-Stage LaTeX `booktabs` & scanned HTML `<table>` → RFC-4180 CSV surgery (`100%` table recall, `0` false positives in `~97 ms/page`), Thai PUA/Sara-Am glyph normalizer, and 4-Tier local `SCB 10X Typhoon-OCR v1.5` (`Qwen3-VL`) & `baidu/Unlimited-OCR-2` hybrid engine. |
+| Repository & Pillar | Status | Core Capability & Empirical Impact |
+| :--- | :---: | :--- |
+| **[qgis-axonometric-transformer](https://github.com/iscvlab/qgis-axonometric-transformer)**<br>`02 // Spatial Data & GIS` | **LIVE** *(v1.2.2 • QGIS Portal [#6219](https://plugins.qgis.org/plugins/axonometric_transformer/))* | Official Qt6-verified (`QGIS 4 Ready`) plugin for 1-click 3D isometric, dimetric, and oblique axonometric map diagrams (`30×` faster than manual CAD) with multi-format transparent clipboard export (`PDF /SMask`, `SVG`, `PNG`, `CF_HDROP`) to Adobe Illustrator & Figma. |
+| **[mcp-bridges](https://github.com/iscvlab/mcp-bridges)**<br>`04 // Computational Design` | **LIVE** *(7 Bridges)* | Production Model Context Protocol (MCP) automation bridges connecting AI coding agents across Claude Code, Grok, Gemini, and Cursor to **QGIS, Rhinoceros 3D, Grasshopper, Adobe Illustrator, and Figma** with Parallel-Brains Single-Mouse `/xultra` swarm safety. |
+| **[boostx](https://github.com/iscvlab/boostx)**<br>`01 // Research & Workflows` | **LIVE** *(v3.2.0)* | Composable 14-skill `/x*` ecosystem and 8 deterministic Python CLI engines (`100%` red-team defect recall across `25` seeded defects in `6.45 ms`, `-97.48%` briefing context noise reduction, and `10.06 ms` System 1 `/xlaya` section triage). |
+| **[xocr](https://github.com/iscvlab/xocr)**<br>`01 // Research & Document AI` | **LIVE** *(v2.1.0)* | High-speed C++ PyMuPDF vector/table extractor (`19-97 ms/page`, `15.0×-3,326×` faster hybrid routing), Two-Stage LaTeX `booktabs` & scanned HTML `<table>` → RFC-4180 CSV surgery, Thai PUA/Sara-Am normalizer, and 4-Tier local `SCB 10X Typhoon-OCR v1.5` (`Qwen3-VL`) & `baidu/Unlimited-OCR-2` engine. |
+| **[scb-10x/typhoon-ocr (PR #15)](https://github.com/scb-10x/typhoon-ocr/pull/15)**<br>`01 // Upstream Open-Source Contribution` | **LIVE** *(Upstream PR [#15](https://github.com/scb-10x/typhoon-ocr/pull/15))* | Contributed `feat(ocr): 1.3x-15x faster pipeline (-35.9% token bloat) & offline local VLM` (`iscvlab/typhoon-ocr` → `scb-10x/typhoon-ocr`): fixes `resize_if_needed` upscaling (`-35.9%` to `-80.4%` vision tokens), lossless PNG encoding, Poppler-free C++ PyMuPDF rendering, local `Typhoon-OCR v1.5` (`2B` & `3B-QAT` `bf16`/`4-bit`), and HTML `<table>` → CSV export (`+9.11%` Table EditSim on `ThaiOCRBench`). |
 
 ---
 
