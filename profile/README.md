@@ -8,10 +8,10 @@
 
 **ISCV | Isocurve Research Lab** (`@iscvlab`) is a multidisciplinary spatial data, GIS cartography, research synthesis, and computational design laboratory founded by **[Napat (Tan) Phasundhiae (`@napattan`)](https://github.com/napattan)** in Bangkok, Thailand. We engineer deterministic software tools, spatial analytics pipelines, and parametric workflows for the built environment.
 
-[![Founder](https://img.shields.io/badge/Founder-Napat%20Tan%20(%40napattan)-121417?style=flat-square&logo=github&logoColor=white)](https://github.com/napattan)
+[![Founder](https://img.shields.io/badge/Founder-Napat%20Tan%20%28%40napattan%29-121417?style=flat-square&logo=github&logoColor=white)](https://github.com/napattan)
 [![Spatial Suite](https://img.shields.io/badge/Spatial_Suite-bangkok.iscvlab.com-059669?style=flat-square)](https://bangkok.iscvlab.com)
 [![CanopyGIS](https://img.shields.io/badge/CanopyGIS-v3.0_Hybrid_GeoAI-0F766E?style=flat-square)](https://github.com/napattan/CanopyGIS)
-[![LinkedIn Company](https://img.shields.io/badge/LinkedIn-ISCV%20Lab%20(%40iscvlab)-0A66C2?style=flat-square)](https://www.linkedin.com/company/iscvlab)
+[![LinkedIn Company](https://img.shields.io/badge/LinkedIn-ISCV%20Lab%20%28%40iscvlab%29-0A66C2?style=flat-square)](https://www.linkedin.com/company/iscvlab)
 [![Instagram](https://img.shields.io/badge/Instagram-%40iscvlab-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/iscvlab)
 [![Facebook](https://img.shields.io/badge/Facebook-%40iscvlab-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/iscvlab)
 [![Email](https://img.shields.io/badge/Contact-tanfasantia%40gmail.com-D97706?style=flat-square&logo=gmail&logoColor=white)](mailto:tanfasantia@gmail.com)
