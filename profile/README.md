@@ -4,9 +4,9 @@
 
 # ISCV | Isocurve Research Lab
 
-### Research, Data Analysis, GIS & Computational Design
+### Geospatial Analytics, Climate Risk, GIS & Environmental Simulation
 
-**ISCV | Isocurve Research Lab** (`@iscvlab`) is a multidisciplinary spatial data, GIS cartography, research synthesis, and computational design laboratory created and maintained by **[Napat (Tan) Phasundhiae (`@napattan`)](https://github.com/napattan)** in Bangkok, Thailand. We engineer deterministic software tools, spatial analytics pipelines, and parametric workflows for the built environment.
+**ISCV | Isocurve Research Lab** (`@iscvlab`) is an independent geospatial data, GIS mapping, climate risk, and environmental simulation research lab created and maintained by **[Napat (Tan) Phasundhiae (`@napattan`)](https://github.com/napattan)** in Bangkok, Thailand. We build verifiable analytical frameworks, spatial analytics pipelines, and simulation workflows to support resilience across the built and natural environment.
 
 [![Maintainer](https://img.shields.io/badge/Maintainer-Napat_Tan_%28%40napattan%29-121417?style=flat-square&logo=github&logoColor=white)](https://github.com/napattan)
 [![CanopyGIS](https://img.shields.io/badge/CanopyGIS-v1.0_Hybrid_GeoAI-0F766E?style=flat-square)](https://napattan.github.io/CanopyGIS/)
